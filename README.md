@@ -22,7 +22,7 @@ databases = ["MySQL", "PostgreSQL (basic)", "MongoDB (basic)"] # Adjust based on
 🚀 Featured Projects
 Here are some of the data science projects I'm most proud of:
 
-1. [Project Title 1: e.g., Customer Churn Prediction using Machine Learning]
+1.  Customer Churn Prediction using Machine Learning.
   
 
 Description: [A concise and engaging description of your project. Highlight the problem you solved and the key outcomes.]
@@ -37,7 +37,7 @@ This project involved [more detailed explanation of the project, including the d
 
 <br>
 
-2. [Project Title 2: e.g., Sentiment Analysis of Twitter Data using NLP]
+2. customer Sentiment Analysis of Twitter Data using NLP]
    
 
 Description: [A brief description of this project and its objectives.]
@@ -52,7 +52,7 @@ In this project, I [provide more details about the data source, NLP techniques u
 
 <br>
 
-3. [Project Title 3: e.g., Time Series Forecasting of Stock Prices]
+3.  Time Series Forecasting of Stock Prices]
    
 
 Description: [A short description of this project's goal.]
@@ -76,11 +76,11 @@ This project explored [explain the time series models you used, the data sources
 
 🔗 Connect with Me
 
-[invalid URL removed]
+kyuvakishore462@gmail.com
 
 <br>
 
-⭐️ From [Your City, India] 🇮🇳
+⭐️ From [Bangalore, India] 🇮🇳
 
 Python
 
