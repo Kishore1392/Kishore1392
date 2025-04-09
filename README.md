@@ -14,7 +14,7 @@ tools = ["Jupyter Notebook", "Google Colab", "Git", "GitHub"]
 databases = ["MySQL", "PostgreSQL (basic)", "MongoDB (basic)"] # Adjust based on your knowledge
 📊 Data Science Concepts: Statistical Analysis | Data Cleaning & Preprocessing | Feature Engineering | Exploratory Data Analysis (EDA) | Machine Learning Algorithms (Regression, Classification, Clustering) | Deep Learning (Basic understanding of Neural Networks, CNNs, RNNs - adjust based on your knowledge) | Model Evaluation & Interpretation
 
-🔭 Currently Learning: [Mention a specific skill or area you are currently focusing on, e.g., "Advanced NLP techniques," "Time Series Forecasting with ARIMA and Prophet," "Cloud Computing for Data Science (AWS/Azure/GCP)"]
+🔭 Currently Learning: "Advanced NLP techniques," "Time Series Forecasting with ARIMA and Prophet," "Cloud Computing for Data Science (AWS/Azure/GCP)"]
 
 🌱 Always eager to learn and collaborate!
 
@@ -28,14 +28,7 @@ Here are some of the data science projects I'm most proud of:
 Description: [A concise and engaging description of your project. Highlight the problem you solved and the key outcomes.]
 Key Technologies: Python, Pandas, Scikit-learn, [mention other relevant libraries]
 Link to the Repository
-[Link to Live Demo (if applicable)]
-<details>
-<summary>Read More</summary>
-<br>
 This project involved [more detailed explanation of the project, including the dataset used, methodology, and key findings. You can even embed a short animated GIF showcasing the project's output if you have one].
-</details>
-
-<br>
 
 2. customer Sentiment Analysis of Twitter Data using NLP]
    
