@@ -9,12 +9,12 @@
 🛠️ **Skills:**
 ```python
 languages = ["Python", "R", "SQL"]
-libraries = ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Matplotlib", "Seaborn", "Streamlit", "Plotly"]
-tools = ["Jupyter Notebook", "Google Colab", "Git", "GitHub"]
+libraries = ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Matplotlib", "Seaborn", "Plotly"]
+tools = ["Jupyter Notebook", "GitHub"]
 databases = ["MySQL", "PostgreSQL (basic)", "MongoDB (basic)"] # Adjust based on your knowledge
-📊 Data Science Concepts: Statistical Analysis | Data Cleaning & Preprocessing | Feature Engineering | Exploratory Data Analysis (EDA) | Machine Learning Algorithms (Regression, Classification, Clustering) | Deep Learning (Basic understanding of Neural Networks, CNNs, RNNs - adjust based on your knowledge) | Model Evaluation & Interpretation
+📊 Data Science Concepts: Statistical Analysis | Data Cleaning & Preprocessing  | Exploratory Data Analysis (EDA) | Machine Learning Algorithms (Regression, Classification, Clustering) | Deep Learning (Basic understanding of Neural Networks, CNNs, RNNs - adjust based on your knowledge) | Model Evaluation 
 
-🔭 Currently Learning: "Advanced NLP techniques," "Time Series Forecasting with ARIMA and Prophet," "Cloud Computing for Data Science (AWS/Azure/GCP)"]
+🔭 Currently Learning: "beginner of  NLP techniques," "Time Series Forecasting with ARIMA and Prophet," "Cloud Computing for Data Science (AWS/Azure/GCP)"]
 
 🌱 Always eager to learn and collaborate!
 
